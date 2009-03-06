@@ -1,0 +1,9 @@
+h1. My default OSX terminal settings
+
+h2. Installation
+
+# Firstly install "SIMBL":http://www.culater.net/software/SIMBL/SIMBL.php if you haven't already
+# Get you will need to get yourself a copy "Ciarán Walsh’s SIMBL plugin":http://ciaranwal.sh/files/TerminalColours.bundle.zip and install it into... @/Library/Application Support/SIMBL/Plugins@
+# When that has done, make sure your terminal is closed and simply double click the theme file!
+
+Done!
